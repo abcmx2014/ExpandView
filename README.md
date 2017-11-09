@@ -1,2 +1,4 @@
 # ExpandView
-qq下拉效果,copy from 其他地方
+qq下拉展开效果
+
+有多级或N级菜单展开效果？
